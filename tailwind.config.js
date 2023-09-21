@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'e-facility-section' : "url('/public/images/banner.png')",
+      },
       fontFamily : {
         'nunito' : ['nunito', 'sans-serif']
       },
