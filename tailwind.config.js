@@ -8,7 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'e-facility-section' : "url('/public/images/banner.png')",
-        'empowering' : "url('/public/images/Group 7.png')",
+        'empowering' : "url('/images/Group 7.png')",
       },
       fontFamily : {
         'nunito' : ['nunito', 'sans-serif']
